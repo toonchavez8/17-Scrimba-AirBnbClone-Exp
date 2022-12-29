@@ -2,9 +2,9 @@
 
 This is a AirBnb Experiences Clone that was created using [Vite](https://github.com/vitejs/vite) and built while following the Scrimba ["Learn React"](https://scrimba.com/learn/learnreact) course.
 
-[![Scrimba logo](https://scrimba.com/static/art/dark-logo.svg=200x200)](https://scrimba.com/learn/learnreact)
+[![Scrimba logo](https://scrimba.com/static/art/dark-logo.svg =200x200)](https://scrimba.com/learn/learnreact)
 
-![AirBnb clone design file](./assets/AirBnb%20Experiences.png=300x300)
+![AirBnb clone design file](./assets/AirBnb%20Experiences.png =300x300)
 
 ## Index
 
