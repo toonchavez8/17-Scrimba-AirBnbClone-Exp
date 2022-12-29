@@ -1,6 +1,6 @@
 # AirBnb Experiences
 
-[![Scrimba logo](https://scrimba.com/assets/img/scrimba-logo.png =200x200)](https://scrimba.com/learn/learnreact)
+[![Scrimba logo](https://scrimba.com/assets/img/scrimba-logo.png=200x200)](https://scrimba.com/learn/learnreact)
 
 This is a AirBnb Experiences Clone that was created using [Vite](https://github.com/vitejs/vite) and built while following the Scrimba ["Learn React"](https://scrimba.com/learn/learnreact) course.
 
