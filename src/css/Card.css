@@ -1,0 +1,59 @@
+.cards {
+	display: flex;
+	flex-wrap: row;
+	gap: 1.25rem;
+	overflow-x: auto;
+}
+
+.cards::-webkit-scrollbar {
+	width: 12px; /* width of the entire scrollbar */
+}
+
+.cards::-webkit-scrollbar-track {
+	background: rgb(255, 96, 100); /* color of the tracking area */
+}
+
+.cards::-webkit-scrollbar-thumb {
+	background-color: white; /* color of the scroll thumb */
+	border-radius: 20px; /* roundness of the scroll thumb */
+	border: 3px solid rgb(255, 96, 100); /* creates padding around scroll thumb */
+}
+.card {
+	width: 10.9375rem;
+	font-size: 0.75rem;
+	flex: 0 0 auto; /* ADD */
+	display: flex; /* ADD */
+	flex-direction: column; /* ADD */
+	position: relative;
+}
+
+.card--img {
+	width: 100%;
+	border-radius: 0.5625rem;
+	margin-bottom: 0.5625rem;
+}
+
+.card--stats {
+	display: flex;
+	align-items: center;
+	gap: 4px;
+}
+
+.card--star {
+	height: 0.875rem;
+	padding-inline: 0.125rem;
+}
+
+.card--price {
+	margin-top: auto;
+}
+
+.card--badge {
+	position: absolute;
+	top: 6px;
+	left: 6px;
+	background-color: white;
+	padding: 5px 7px;
+	border-radius: 2px;
+	font-weight: bold;
+}
