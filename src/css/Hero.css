@@ -1,0 +1,27 @@
+.hero {
+	display: flex;
+	flex-direction: column;
+	gap: 2rem;
+}
+
+.hero--img {
+	max-width: 25rem;
+	align-self: center;
+}
+
+.hero--title {
+	max-width: 350px;
+}
+
+.hero--header {
+	font-size: 2.25rem;
+	font-weight: 600;
+	margin: 0;
+}
+
+.hero--text {
+	font-size: 1rem;
+	font-weight: 300;
+	line-height: 18px;
+	margin: 0;
+}
